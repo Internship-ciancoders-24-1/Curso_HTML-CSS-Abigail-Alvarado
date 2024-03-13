@@ -11,3 +11,8 @@ Instrucciones:
 
 enlace: [python]('https://drive.google.com/drive/folders/1gmSv90NfYC9JRmcSZcfRZOay64QV7vxn?usp=sharing')
 https://drive.google.com/drive/folders/1gmSv90NfYC9JRmcSZcfRZOay64QV7vxn?usp=sharing
+
+
+fotos prueba:
+![Captura desde 2024-03-13 01-23-31](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/ec47f3b8-9f99-4cfa-8cae-30fc331afc8a)
+![Captura desde 2024-03-13 01-24-55](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/b0f6e4ab-19de-44c7-9452-71addc80ded9)
