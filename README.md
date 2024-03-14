@@ -19,3 +19,10 @@ fotos prueba:
 
 ![Captura desde 2024-03-13 01-34-07](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/a9e685da-7e7a-4fd0-b51b-d74638823eea)
 ![Captura desde 2024-03-13 12-14-57](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/b3d2bbeb-f752-40f5-821a-a6ae1272dcf4)
+
+
+![Captura desde 2024-03-14 11-09-10](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/4504938f-1bd2-4f61-85f7-66fa35c7af6b)
+![Captura desde 2024-03-14 11-09-20](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/73505751-3da6-4c9d-a054-c8265b4ffbdd)
+![Captura desde 2024-03-14 11-09-34](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/4db65ecb-31a3-4c0a-b81a-67ae756ca7b1)
+![Captura desde 2024-03-14 11-10-07](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/76449889-f0d6-44d2-beed-055d611c11ff)
+![Captura desde 2024-03-14 11-10-25](https://github.com/Internship-ciancoders-24-1/Curso_HTML-CSS-Abigail-Alvarado/assets/74523252/56c3a117-e5b9-4588-9a3d-7e55e702cdba)
